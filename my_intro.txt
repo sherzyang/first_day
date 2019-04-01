@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+
+Name:             Sherry Yang
+Email:            Sherry.Yang@flatironschool.com
+Favorite Place:   Los Angeles, CA
+Favorite Food:    Bao
+Astrology sign:   Virgo
